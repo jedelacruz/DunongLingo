@@ -22,3 +22,4 @@ DunongLingo is a PHP-powered learning and exam platform that delivers an interac
 - **PHP & MySQL**: Backend functionality and database management.  
 - **HTML, CSS, JavaScript**: Interactive and responsive frontend.  
 - **FPDF and FPDI**: Used for dynamic certificate generation.  
+- **AWARDSPACW**
